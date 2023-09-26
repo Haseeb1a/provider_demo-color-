@@ -1,5 +1,5 @@
 import 'package:cs/controller/colorcontroller.dart';
-import 'package:cs/controller/view/colorpage.dart';
+import 'package:cs/view/colorpage.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
